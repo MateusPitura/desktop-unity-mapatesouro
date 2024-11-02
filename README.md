@@ -14,7 +14,7 @@
 
 ## Descrição 
 
-Mapa do Tesouro é um jogo de aventura 3D onde o jogador explora um Canyon
+Mapa do Tesouro é um jogo 3D desenvolvido para o curso de Turismo no qual o jogador explora um Canyon
 
 ## Índice 
 

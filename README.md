@@ -35,7 +35,7 @@ Mapa do Tesouro é um jogo 3D desenvolvido para o curso de Turismo no qual o jog
 
 1. Aqui no GitHub entre na aba Releases e baixe o ZIP 
 
-2. Execute o arquivo `MapaDoTesouro -v0.1.0beta.exe`
+2. Execute o arquivo `MapaDoTesouro-v0.1.0beta.exe`
 
 3. Controle com AWSD, pule com espaço e corra com Shift
 

@@ -5,7 +5,6 @@
 <p> 
   <img src="https://img.shields.io/badge/Release-Oct%202024-green">  
   <img src="https://img.shields.io/badge/Version-0.1.0-blue">  
-  <img src="https://img.shields.io/badge/Status-Closed-brightgreen">  
   <img src="https://img.shields.io/badge/OS-Windows-red">  
   <img src="https://img.shields.io/github/stars/MateusPitura/desktop-unity-mapatesouro?style=social"> 
 </p> 

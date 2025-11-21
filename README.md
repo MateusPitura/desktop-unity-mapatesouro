@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/github/stars/MateusPitura/desktop-unity-mapatesouro?style=social"> 
 </p> 
 
-> :checkered_flag: Este projeto está finalizado :checkered_flag:  
-
 ## Descrição 
 
 Mapa do Tesouro é um jogo 3D desenvolvido para o curso de Turismo no qual o jogador explora um Canyon
